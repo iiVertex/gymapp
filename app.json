@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "MobileAppAI",
+    "slug": "mobileappai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourname.mobileappai"
+    },
+    "android": {
+      "package": "com.yourname.mobileappai"
+    },
+    "web": {},
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "50c74cd1-fa45-46ae-885b-d84170bfa69d"
+      }
+    }
+  }
+}
